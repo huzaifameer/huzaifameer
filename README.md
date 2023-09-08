@@ -19,7 +19,7 @@ Explore more of my coding adventures on my [Portfolio](Link to Portfolio).
 
 ## 📬 Contact Me
 
-Let's chat! You can reach me via [Email](huzaifaameer00@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/huzaifa-ameer-28a126253) and [Twitter](Link to Twitter). I'm always up for engaging discussions and collaborations.
+Let's chat! You can reach me via [Email](huzaifaameer00@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/huzaifa-ameer-28a126253). I'm always up for engaging discussions and collaborations.
 
 ## 💻 Let's Code Together
 

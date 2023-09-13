@@ -17,7 +17,7 @@ I've had the privilege to work on some exciting projects:
 
 ## 📬 Contact Me
 
-Let's chat! You can reach me via [huzaifaameer00@gmail.com]or connect with me on [LinkedIn](www.linkedin.com/in/huzaifa-ameer-28a126253). I'm always up for engaging discussions and collaborations.
+Let's chat! You can reach me via huzaifaameer00@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/huzaifa-ameer-28a126253). I'm always up for engaging discussions and collaborations.
 
 ## 💻 Let's Code Together
 

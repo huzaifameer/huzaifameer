@@ -13,9 +13,8 @@ I've had the privilege to work on some exciting projects:
 
 - [Python-Student-Mark-System]([Link to Project 1](https://github.com/huzaifameer/Python-Student-Marks-System/tree/5dca260e763693eaf84969ca019bb4cda0af209d#python-student-marks-system)): 🚧 Throughout the entire assignment, Python basics and functions have been employed.
 - [Java-Theatre-System]([Link to Project 2](https://github.com/huzaifameer/Java-Theatre-System/tree/a6068a3696acbb25bb77753ea6297a8bc8e50a84)): 🌟 This assignment covers the basics of Java, including objects, classes, and encapsulation.
+-  [React-Web-Application]([Link to Project 3](https://github.com/huzaifameer/Java-Theatre-System/tree/a6068a3696acbb25bb77753ea6297a8bc8e50a84)): 🌟 The react framework is being used to build this project. In addition, HTML, CSS, and javaScript have been included.
 .
-
-Explore more of my coding adventures on my [Portfolio](Link to Portfolio).
 
 ## 📬 Contact Me
 

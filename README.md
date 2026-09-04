@@ -1,93 +1,146 @@
-# 👋 About Me
+<div align="center">
 
-Hello there! I'm **Huzaifa Ameer**, a Computer Science undergraduate and aspiring Software and DevOps Engineer. I focus on building scalable and elegant software solutions, with a passion for full-stack development, automation, and AI technologies.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Huzaifa%20Ameer&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20|%20DevOps%20%26%20Cloud%20|%20AI%2FML&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Building+scalable%2C+cloud-native+systems;Automating+everything+that+can+be+automated;Exploring+AI%2FML+and+Generative+AI" alt="Typing SVG" />
 
-## 🧑‍💼 Experience
+<p>
+  <a href="https://huzaifa-ameer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/huzaifa-ameer-28a126253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/huzaifameer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://medium.com/@huzaifaameer00"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
-**Codegen International** — *Trainee Software & DevOps Engineer (1 Year)*  
-- Developed on the TravelBox platform using Test-Driven Development principles.  
-- Gained DevOps experience with Kubernetes, the EFK stack, and production-level automation.
+<img src="https://komarev.com/ghpvc/?username=huzaifameer&style=flat-square&color=2C5364" alt="profile views" />
 
-**ITX360 (PVT) LTD** — *Managed Services Intern (3 Months)*  
-- Supported IT operations and collaborated with engineering teams in live infrastructure environments.
+</div>
 
----
+<br />
 
-## 🎓 Education
+## About Me
 
-**Informatics Institute of Technology (IIT), Sri Lanka**  
-*BSc (Hons) in Computer Science – University of Westminster (2022–Present)*
+- BSc (Hons) in Computer Science - First Class Honours
+- Passionate about software engineering and full-stack development
+- Interested in DevOps, cloud computing and infrastructure
+- Exploring AI/ML, NLP and generative AI
+- Enjoy building APIs, web applications and automation solutions
+- Strong interest in system design and scalable architecture
+- Open to Software Engineering, DevOps, Cloud and AI/ML opportunities
 
-**ICET Master Certification Program**  
-*Full-stack Development Training (10 Months)*
+<br />
 
----
+## Experience
 
-## 💻 Skills
+**Codegen International** - Trainee Software & DevOps Engineer (1 Year)
+- Contributed to the development of the TravelBox platform
+- Followed Test-Driven Development practices
+- Worked with containerized and cloud-native development environments
+- Hands-on experience with Kubernetes and centralized logging
+- Contributed to CI/CD and production-oriented automation
+- Worked closely with engineering teams to troubleshoot and improve applications
 
-**Languages & Frameworks:**  
-Java, JavaScript, Python, R, Spring Boot, NestJS, Node.js, React.js, Angular, Next.js, HTML, CSS, Bootstrap, Tailwind CSS
+**ITX360 (PVT) LTD** - Managed Services Intern (3 Months)
+- Supported IT operations and infrastructure-related activities
+- Worked with engineering teams in live environments
+- Assisted with troubleshooting and technical problem resolution
 
-**Tools & Technologies:**  
-JAX-RS, JSP, Swing, Hibernate, JDBC, MongoDB, MySQL, PostgreSQL, Kubernetes, CI/CD, Linux, EFK Stack (Elasticsearch, Fluentd, Kibana), Docker, Jenkins
+<br />
 
-**Soft Skills:**  
-Problem Solving, Critical Thinking, Communication, Leadership, Teamwork
+## Tech Stack
 
----
+**Languages**
+<br />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,r,sql" />
 
-## 🛠️ Projects
+**Frontend & Backend**
+<br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,nestjs,spring,html,css,tailwind,bootstrap" />
 
-**Fluentd English Learning Platform**  
-*React, Tailwind, Python, Node.js, MongoDB*  
-An English learning platform with speech recognition, pronunciation scoring via Python SVM, and CI/CD integration.
+**Databases**
+<br />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
-**Healthcare Management System**  
-*Java, OOP, JAX-RS*  
-RESTful system for managing patient data, appointments, and medical records using object-oriented design.
+**DevOps & Cloud**
+<br />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,git,github,gitlab,aws" />
 
-**Real Estate Management System**  
-*React.js, Bootstrap*  
-Web application allowing property searches and filtering with a responsive and dynamic front-end.
+**Other**
+<br />
+<img src="https://skillicons.dev/icons?i=elasticsearch" />
 
-**Online Shopping System**  
-*Java, Swing*  
-Java-based GUI system featuring cart logic, discounts, and data persistence for shopping functionality.
+Also experienced with: JAX-RS, JSP, Swing, Hibernate, JDBC, Fluentd, Kibana, CI/CD
 
-**Product Management System**  
-*Spring Boot, MySQL*  
-Full-stack inventory system with CRUD operations, built with Spring Boot and a responsive web interface.
+<br />
 
-**Sentiment Analysis Model**  
-*Python, NLTK, Pandas*  
-NLP model to classify user comments into positive or negative categories with dataset evaluation.
+## Featured Projects
 
-🔗 [View more on GitHub](https://github.com/huzaifameer)
+**Fluentd English Learning Platform** - React, Tailwind CSS, Python, Node.js, MongoDB
+- Speech recognition and pronunciation scoring
+- Machine learning-based evaluation
+- REST APIs with database integration
+- CI/CD pipeline
 
----
+**Healthcare Management System** - Java, OOP, JAX-RS
+- RESTful application for patient records and appointments
+- Manages medical information and healthcare operations
+- Strong focus on object-oriented design
 
-## 📝 Publications
+**Real Estate Management System** - React.js, Bootstrap
+- Property listings with search and filtering
+- Dynamic frontend interactions
+- Fully responsive UI
 
-**Simple and Practical Logging with the EFK Stack on Kubernetes (On-Prem Setup)**  
-*Medium, April 2025*  
-Beginner's guide to setting up centralized logging using Elasticsearch, Fluentd, and Kibana.  
-📖 [Read the Article](https://medium.com/@huzaifaameer00/simple-and-practical-logging-with-the-efk-stack-on-kubernetes-on-prem-setup-e1c78da0e706)
+**Online Shopping System** - Java, Swing
+- Product management and shopping cart functionality
+- Discount calculations and data persistence
+- Built with object-oriented programming principles
 
----
+**Product Management System** - Spring Boot, MySQL
+- Product CRUD operations
+- RESTful backend services
+- Responsive web interface
 
-## 🔗 Portfolio & Links
+**Sentiment Analysis Model** - Python, NLTK, Pandas, Machine Learning
+- Classifies user comments into positive and negative sentiment
+- NLP-based preprocessing and evaluation pipeline
 
-- 🌐 [Portfolio Website](https://huzaifa-ameer.vercel.app/)  
-- 🐙 [GitHub](https://github.com/huzaifameer)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/huzaifa-ameer-28a126253)  
-- 📧 Email: huzaifaameer00@gmail.com
+<br />
 
----
+## Research & Publications
 
-## 🤝 Let's Collaborate
+**Simple and Practical Logging with the EFK Stack on Kubernetes**
+Published on Medium, April 2025
+- Practical guide to centralized logging using Elasticsearch, Fluentd, Kibana and Kubernetes
+- [Read the article](https://medium.com/@huzaifaameer00/simple-and-practical-logging-with-the-efk-stack-on-kubernetes-on-prem-setup-e1c78da0e706)
 
-I'm open to collaborating on impactful software projects. If you're building something exciting, feel free to reach out. Let's create reliable and efficient systems together.
+<br />
 
-Thanks for visiting!
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaifameer&show_icons=true&theme=transparent&hide_border=true&title_color=2C5364&icon_color=2C5364&text_color=333333" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifameer&layout=compact&theme=transparent&hide_border=true&title_color=2C5364&text_color=333333" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifameer&theme=transparent&hide_border=true&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifameer&theme=minimal&hide_border=true&color=2C5364&line=2C5364&point=203A43" />
+</p>
+
+<br />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" />
+
+**Let's connect and build something great together**
+
+<a href="https://huzaifa-ameer.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/huzaifa-ameer-28a126253">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://github.com/huzaifameer">GitHub</a> &nbsp;·&nbsp;
+<a href="https://medium.com/@huzaifaameer00">Medium</a>
+
+</div>

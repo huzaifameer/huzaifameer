@@ -1,457 +1,363 @@
+<a id="top"></a>
+
 <div align="center">
 
-<svg width="760" height="150" viewBox="0 0 760 150" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#0F2027"/>
-<stop offset="50%" stop-color="#203A43"/>
-<stop offset="100%" stop-color="#2C5364"/>
-<animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
-<animate attributeName="x2" values="100%;200%;100%" dur="8s" repeatCount="indefinite"/>
-</linearGradient>
-<linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#66FCF1"/>
-<stop offset="100%" stop-color="#45A29E"/>
-</linearGradient>
-</defs>
-<rect width="760" height="150" rx="14" fill="url(#bgGrad)"/>
-<text x="380" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="url(#textGrad)" text-anchor="middle">Huzaifa Ameer</text>
-<text x="380" y="102" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#C5D6D9" text-anchor="middle">Software Engineer &#183; DevOps &amp; Cloud &#183; AI/ML Explorer</text>
-<rect x="0" y="0" width="760" height="150" rx="14" fill="none" stroke="#66FCF1" stroke-opacity="0.5" stroke-width="1.5">
-<animate attributeName="stroke-opacity" values="0.15;0.6;0.15" dur="3s" repeatCount="indefinite"/>
-</rect>
-</svg>
+# Huzaifa Ameer
 
-<p>
-<a href="https://huzaifa-ameer.vercel.app/"><strong>Portfolio</strong></a> &nbsp;&#183;&nbsp;
-<a href="https://www.linkedin.com/in/huzaifa-ameer-28a126253"><strong>LinkedIn</strong></a> &nbsp;&#183;&nbsp;
-<a href="https://github.com/huzaifameer"><strong>GitHub</strong></a> &nbsp;&#183;&nbsp;
-<a href="https://medium.com/@huzaifaameer00"><strong>Medium</strong></a>
-</p>
+### Software Engineer &nbsp;•&nbsp; Co-Founder @ Sollyd Labs &nbsp;•&nbsp; AI/ML &nbsp;•&nbsp; DevOps & Cloud
 
-<svg width="300" height="34" viewBox="0 0 300 34" xmlns="http://www.w3.org/2000/svg">
-<circle cx="14" cy="17" r="6" fill="#3FE0A5">
-<animate attributeName="r" values="6;9;6" dur="1.8s" repeatCount="indefinite"/>
-<animate attributeName="opacity" values="1;0.4;1" dur="1.8s" repeatCount="indefinite"/>
-</circle>
-<circle cx="14" cy="17" r="6" fill="#3FE0A5"/>
-<text x="32" y="22" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#2C5364">Open to Software Engineering, DevOps, Cloud &amp; AI/ML roles</text>
-</svg>
+*Building useful products, exploring intelligent systems, and turning ideas into practical software.*
+
+<br/>
+
+![First Class Honours](https://img.shields.io/badge/BSc_CS-First_Class_Honours-F59E0B?style=for-the-badge&logo=academia&logoColor=white)
+![Co-Founder](https://img.shields.io/badge/Co--Founder-Sollyd_Labs-6C47FF?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/AI_%2F_ML-NLP-10B981?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+<br/>
+
+<a href="https://huzaifa-ameer.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-0F172A?style=flat-square" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/huzaifa-ameer-28a126253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@huzaifaameer00"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://github.com/huzaifameer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://sollydlabs.com/"><img src="https://img.shields.io/badge/Sollyd_Labs-6C47FF?style=flat-square" alt="Sollyd Labs"/></a>
+
+<br/><br/>
+
+<a href="#about">👋 About</a> &nbsp;•&nbsp;
+<a href="#sollyd-labs">🏢 Sollyd Labs</a> &nbsp;•&nbsp;
+<a href="#research">🎓 Research</a> &nbsp;•&nbsp;
+<a href="#experience">💼 Experience</a> &nbsp;•&nbsp;
+<a href="#tech-stack">🛠️ Tech Stack</a> &nbsp;•&nbsp;
+<a href="#projects">🚀 Projects</a> &nbsp;•&nbsp;
+<a href="#writing">✍️ Writing</a> &nbsp;•&nbsp;
+<a href="#contact">🤝 Contact</a>
 
 </div>
 
-<br />
+<br/>
 
-## About Me
+<a id="about"></a>
 
-- BSc (Hons) in Computer Science - First Class Honours
-- Passionate about software engineering and full-stack development
-- Interested in DevOps, cloud computing and infrastructure
-- Exploring AI/ML, NLP and generative AI
-- Enjoy building APIs, web applications and automation solutions
-- Strong interest in system design and scalable architecture
+## 👋 About
 
-<svg width="760" height="6" viewBox="0 0 760 6" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#2C5364" stop-opacity="0"/>
-<stop offset="50%" stop-color="#66FCF1" stop-opacity="1"/>
-<stop offset="100%" stop-color="#2C5364" stop-opacity="0"/>
-<animate attributeName="x1" values="-30%;100%" dur="3.5s" repeatCount="indefinite"/>
-<animate attributeName="x2" values="0%;130%" dur="3.5s" repeatCount="indefinite"/>
-</linearGradient>
-</defs>
-<rect width="760" height="2" y="2" fill="url(#divGrad)"/>
-</svg>
+> I'm a Computer Science graduate with **First Class Honours**. I like building practical software products, exploring AI and machine learning, and developing scalable applications.
 
-## Experience
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Codegen International** - Trainee Software & DevOps Engineer (1 Year)
-- Contributed to the development of the TravelBox platform
-- Followed Test-Driven Development practices
-- Worked with containerized and cloud-native development environments
-- Hands-on experience with Kubernetes and centralized logging
-- Contributed to CI/CD and production-oriented automation
-- Worked closely with engineering teams to troubleshoot and improve applications
+**🧑‍💻 Role**
+Software Engineer
 
-**ITX360 (PVT) LTD** - Managed Services Intern (3 Months)
-- Supported IT operations and infrastructure-related activities
-- Worked with engineering teams in live environments
-- Assisted with troubleshooting and technical problem resolution
+**🏢 Company**
+Co-Founder at [Sollyd Labs](https://sollydlabs.com/)
 
-<svg width="760" height="6" viewBox="0 0 760 6" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#2C5364" stop-opacity="0"/>
-<stop offset="50%" stop-color="#66FCF1" stop-opacity="1"/>
-<stop offset="100%" stop-color="#2C5364" stop-opacity="0"/>
-<animate attributeName="x1" values="-30%;100%" dur="3.5s" repeatCount="indefinite"/>
-<animate attributeName="x2" values="0%;130%" dur="3.5s" repeatCount="indefinite"/>
-</linearGradient>
-</defs>
-<rect width="760" height="2" y="2" fill="url(#divGrad)"/>
-</svg>
+**💎 Currently building**
+[Sollyd IMS](https://ims.sollydlabs.com/), an inventory and business management platform for gemstone and jewellery businesses
 
-## Tech Stack
+</td>
+<td width="50%" valign="top">
 
-**Languages**
+**🤖 Research focus**
+NLP, machine learning, and intelligent document processing
 
-<svg width="760" height="46" viewBox="0 0 760 46" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient id="chipgrad156" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" stop-color="#0F2027"/>
-<stop offset="100%" stop-color="#2C5364"/>
-</linearGradient>
-</defs>
-<g transform="translate(0,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.00s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.5s" begin="0.00s" fill="freeze"/>
-<rect width="65" height="36" rx="18.0" fill="url(#chipgrad156)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="32.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">Java</text>
-</g>
-<g transform="translate(75,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.12s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="75,8" to="75,0" dur="0.5s" begin="0.12s" fill="freeze"/>
-<rect width="109" height="36" rx="18.0" fill="url(#chipgrad156)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="54.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">JavaScript</text>
-</g>
-<g transform="translate(194,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.24s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="194,8" to="194,0" dur="0.5s" begin="0.24s" fill="freeze"/>
-<rect width="109" height="36" rx="18.0" fill="url(#chipgrad156)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="54.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">TypeScript</text>
-</g>
-<g transform="translate(313,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.36s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="313,8" to="313,0" dur="0.5s" begin="0.36s" fill="freeze"/>
-<rect width="79" height="36" rx="18.0" fill="url(#chipgrad156)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="39.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">Python</text>
-</g>
-<g transform="translate(402,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.48s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="402,8" to="402,0" dur="0.5s" begin="0.48s" fill="freeze"/>
-<rect width="43" height="36" rx="18.0" fill="url(#chipgrad156)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="21.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">R</text>
-</g>
-<g transform="translate(455,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.60s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="455,8" to="455,0" dur="0.5s" begin="0.60s" fill="freeze"/>
-<rect width="57" height="36" rx="18.0" fill="url(#chipgrad156)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="28.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">SQL</text>
-</g>
-</svg>
+**☁️ Engineering strengths**
+Software engineering, DevOps, and cloud-native technologies
 
-**Frontend & Backend**
+**📝 Also**
+Technical writer and researcher
 
-<svg width="760" height="92" viewBox="0 0 760 92" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient id="chipgrad397" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" stop-color="#0F2027"/>
-<stop offset="100%" stop-color="#2C5364"/>
-</linearGradient>
-</defs>
-<g transform="translate(0,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.00s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.5s" begin="0.00s" fill="freeze"/>
-<rect width="72" height="36" rx="18.0" fill="url(#chipgrad397)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="36.0" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">React</text>
-</g>
-<g transform="translate(82,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.12s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="82,8" to="82,0" dur="0.5s" begin="0.12s" fill="freeze"/>
-<rect width="87" height="36" rx="18.0" fill="url(#chipgrad397)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="43.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">Next.js</text>
-</g>
-<g transform="translate(179,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.24s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="179,8" to="179,0" dur="0.5s" begin="0.24s" fill="freeze"/>
-<rect width="87" height="36" rx="18.0" fill="url(#chipgrad397)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="43.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">Angular</text>
-</g>
-<g transform="translate(276,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.36s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="276,8" to="276,0" dur="0.5s" begin="0.36s" fill="freeze"/>
-<rect width="87" height="36" rx="18.0" fill="url(#chipgrad397)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="43.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">Node.js</text>
-</g>
-<g transform="translate(373,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.48s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="373,8" to="373,0" dur="0.5s" begin="0.48s" fill="freeze"/>
-<rect width="79" height="36" rx="18.0" fill="url(#chipgrad397)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="39.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">NestJS</text>
-</g>
-<g transform="translate(462,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.60s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="462,8" to="462,0" dur="0.5s" begin="0.60s" fill="freeze"/>
-<rect width="116" height="36" rx="18.0" fill="url(#chipgrad397)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="58.0" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">Spring Boot</text>
-</g>
-<g transform="translate(588,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.72s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="588,8" to="588,0" dur="0.5s" begin="0.72s" fill="freeze"/>
-<rect width="65" height="36" rx="18.0" fill="url(#chipgrad397)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="32.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">HTML</text>
-</g>
-<g transform="translate(663,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.84s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="663,8" to="663,0" dur="0.5s" begin="0.84s" fill="freeze"/>
-<rect width="57" height="36" rx="18.0" fill="url(#chipgrad397)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="28.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">CSS</text>
-</g>
-<g transform="translate(0,46)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.96s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0,54" to="0,46" dur="0.5s" begin="0.96s" fill="freeze"/>
-<rect width="94" height="36" rx="18.0" fill="url(#chipgrad397)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="47.0" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">Tailwind</text>
-</g>
-<g transform="translate(104,46)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.08s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="104,54" to="104,46" dur="0.5s" begin="1.08s" fill="freeze"/>
-<rect width="101" height="36" rx="18.0" fill="url(#chipgrad397)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="50.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">Bootstrap</text>
-</g>
-</svg>
+</td>
+</tr>
+</table>
 
-**Databases**
+<div align="right"><a href="#top">⬆ Back to top</a></div>
 
-<svg width="760" height="46" viewBox="0 0 760 46" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient id="chipgrad356" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" stop-color="#0F2027"/>
-<stop offset="100%" stop-color="#2C5364"/>
-</linearGradient>
-</defs>
-<g transform="translate(0,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.00s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.5s" begin="0.00s" fill="freeze"/>
-<rect width="109" height="36" rx="18.0" fill="url(#chipgrad356)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="54.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">PostgreSQL</text>
-</g>
-<g transform="translate(119,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.12s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="119,8" to="119,0" dur="0.5s" begin="0.12s" fill="freeze"/>
-<rect width="72" height="36" rx="18.0" fill="url(#chipgrad356)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="36.0" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">MySQL</text>
-</g>
-<g transform="translate(201,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.24s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="201,8" to="201,0" dur="0.5s" begin="0.24s" fill="freeze"/>
-<rect width="87" height="36" rx="18.0" fill="url(#chipgrad356)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="43.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">MongoDB</text>
-</g>
-</svg>
+---
 
-**DevOps & Cloud**
+<a id="sollyd-labs"></a>
 
-<svg width="760" height="46" viewBox="0 0 760 46" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient id="chipgrad307" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" stop-color="#0F2027"/>
-<stop offset="100%" stop-color="#2C5364"/>
-</linearGradient>
-</defs>
-<g transform="translate(0,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.00s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.5s" begin="0.00s" fill="freeze"/>
-<rect width="79" height="36" rx="18.0" fill="url(#chipgrad307)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="39.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">Docker</text>
-</g>
-<g transform="translate(89,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.12s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="89,8" to="89,0" dur="0.5s" begin="0.12s" fill="freeze"/>
-<rect width="109" height="36" rx="18.0" fill="url(#chipgrad307)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="54.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">Kubernetes</text>
-</g>
-<g transform="translate(208,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.24s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="208,8" to="208,0" dur="0.5s" begin="0.24s" fill="freeze"/>
-<rect width="87" height="36" rx="18.0" fill="url(#chipgrad307)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="43.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">Jenkins</text>
-</g>
-<g transform="translate(305,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.36s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="305,8" to="305,0" dur="0.5s" begin="0.36s" fill="freeze"/>
-<rect width="72" height="36" rx="18.0" fill="url(#chipgrad307)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="36.0" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">Linux</text>
-</g>
-<g transform="translate(387,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.48s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="387,8" to="387,0" dur="0.5s" begin="0.48s" fill="freeze"/>
-<rect width="57" height="36" rx="18.0" fill="url(#chipgrad307)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="28.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">Git</text>
-</g>
-<g transform="translate(454,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.60s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="454,8" to="454,0" dur="0.5s" begin="0.60s" fill="freeze"/>
-<rect width="79" height="36" rx="18.0" fill="url(#chipgrad307)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="39.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">GitHub</text>
-</g>
-<g transform="translate(543,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.72s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="543,8" to="543,0" dur="0.5s" begin="0.72s" fill="freeze"/>
-<rect width="79" height="36" rx="18.0" fill="url(#chipgrad307)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="39.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">GitLab</text>
-</g>
-<g transform="translate(632,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.84s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="632,8" to="632,0" dur="0.5s" begin="0.84s" fill="freeze"/>
-<rect width="57" height="36" rx="18.0" fill="url(#chipgrad307)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="28.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">AWS</text>
-</g>
-</svg>
+## 🏢 Sollyd Labs
 
-**Other Tools**
+[**Sollyd Labs**](https://sollydlabs.com/) is a software and digital solutions company focused on building useful, scalable products and helping businesses strengthen their digital presence.
 
-<svg width="760" height="92" viewBox="0 0 760 92" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient id="chipgrad29" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" stop-color="#0F2027"/>
-<stop offset="100%" stop-color="#2C5364"/>
-</linearGradient>
-</defs>
-<g transform="translate(0,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.00s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.5s" begin="0.00s" fill="freeze"/>
-<rect width="130" height="36" rx="18.0" fill="url(#chipgrad29)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="65.0" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">Elasticsearch</text>
-</g>
-<g transform="translate(140,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.12s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="140,8" to="140,0" dur="0.5s" begin="0.12s" fill="freeze"/>
-<rect width="79" height="36" rx="18.0" fill="url(#chipgrad29)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="39.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">JAX-RS</text>
-</g>
-<g transform="translate(229,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.24s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="229,8" to="229,0" dur="0.5s" begin="0.24s" fill="freeze"/>
-<rect width="57" height="36" rx="18.0" fill="url(#chipgrad29)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="28.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">JSP</text>
-</g>
-<g transform="translate(296,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.36s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="296,8" to="296,0" dur="0.5s" begin="0.36s" fill="freeze"/>
-<rect width="72" height="36" rx="18.0" fill="url(#chipgrad29)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="36.0" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">Swing</text>
-</g>
-<g transform="translate(378,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.48s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="378,8" to="378,0" dur="0.5s" begin="0.48s" fill="freeze"/>
-<rect width="101" height="36" rx="18.0" fill="url(#chipgrad29)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="50.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">Hibernate</text>
-</g>
-<g transform="translate(489,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.60s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="489,8" to="489,0" dur="0.5s" begin="0.60s" fill="freeze"/>
-<rect width="65" height="36" rx="18.0" fill="url(#chipgrad29)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="32.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">JDBC</text>
-</g>
-<g transform="translate(564,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.72s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="564,8" to="564,0" dur="0.5s" begin="0.72s" fill="freeze"/>
-<rect width="87" height="36" rx="18.0" fill="url(#chipgrad29)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="43.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">Fluentd</text>
-</g>
-<g transform="translate(661,0)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.84s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="661,8" to="661,0" dur="0.5s" begin="0.84s" fill="freeze"/>
-<rect width="79" height="36" rx="18.0" fill="url(#chipgrad29)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="39.5" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">Kibana</text>
-</g>
-<g transform="translate(0,46)" opacity="0">
-<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.96s" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="0,54" to="0,46" dur="0.5s" begin="0.96s" fill="freeze"/>
-<rect width="72" height="36" rx="18.0" fill="url(#chipgrad29)" stroke="#2C5364" stroke-opacity="0.4"/>
-<text x="36.0" y="23.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E8F1F2" text-anchor="middle">CI/CD</text>
-</g>
-</svg>
+> [!NOTE]
+> As co-founder, I contribute to **product development, software engineering, database integration, deployment, and ongoing improvements.**
 
-Also experienced with: JAX-RS, JSP, Swing, Hibernate, JDBC, Fluentd, Kibana, CI/CD
+### 💎 Sollyd IMS
 
-<svg width="760" height="6" viewBox="0 0 760 6" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#2C5364" stop-opacity="0"/>
-<stop offset="50%" stop-color="#66FCF1" stop-opacity="1"/>
-<stop offset="100%" stop-color="#2C5364" stop-opacity="0"/>
-<animate attributeName="x1" values="-30%;100%" dur="3.5s" repeatCount="indefinite"/>
-<animate attributeName="x2" values="0%;130%" dur="3.5s" repeatCount="indefinite"/>
-</linearGradient>
-</defs>
-<rect width="760" height="2" y="2" fill="url(#divGrad)"/>
-</svg>
+An inventory and business management platform built for **gemstone and jewellery businesses.**
 
-## Featured Projects
+<a href="https://ims.sollydlabs.com/"><img src="https://img.shields.io/badge/Visit_Sollyd_IMS-→-6C47FF?style=for-the-badge" alt="Visit Sollyd IMS"/></a>
 
-**Fluentd English Learning Platform** - React, Tailwind CSS, Python, Node.js, MongoDB
-- Speech recognition and pronunciation scoring
-- Machine learning-based evaluation
-- REST APIs with database integration
-- CI/CD pipeline
+| Feature area | What it covers |
+|---|---|
+| 📦 **Inventory** | Gemstone and jewellery inventory management |
+| 💠 **Gem records** | Carat, colour, shape, clarity, origin, and treatment |
+| 🤝 **Relationships** | Customer, vendor, and goldsmith management |
+| 🧾 **Sales** | Order processing, invoicing, and sales tracking |
+| 📊 **Finance & insights** | Expense management and business analytics |
+| 🔐 **Access & audit** | Role-based access and activity tracking |
+| 🌍 **Records** | Centralized business records with multi-currency support |
 
-**Healthcare Management System** - Java, OOP, JAX-RS
-- RESTful application for patient records and appointments
-- Manages medical information and healthcare operations
-- Strong focus on object-oriented design
+### 🧩 Other Services
 
-**Real Estate Management System** - React.js, Bootstrap
-- Property listings with search and filtering
-- Dynamic frontend interactions
-- Fully responsive UI
+![Web](https://img.shields.io/badge/Website_&_E--commerce-0EA5E9?style=flat-square)
+![Social](https://img.shields.io/badge/Social_Media_Management-EC4899?style=flat-square)
+![Marketing](https://img.shields.io/badge/Digital_Marketing-F97316?style=flat-square)
+![Consulting](https://img.shields.io/badge/Online_Business_Consulting-10B981?style=flat-square)
 
-**Online Shopping System** - Java, Swing
-- Product management and shopping cart functionality
-- Discount calculations and data persistence
-- Built with object-oriented programming principles
+<div align="right"><a href="#top">⬆ Back to top</a></div>
 
-**Product Management System** - Spring Boot, MySQL
-- Product CRUD operations
-- RESTful backend services
-- Responsive web interface
+---
 
-**Sentiment Analysis Model** - Python, NLTK, Pandas, Machine Learning
-- Classifies user comments into positive and negative sentiment
-- NLP-based preprocessing and evaluation pipeline
+<a id="research"></a>
 
-<svg width="760" height="6" viewBox="0 0 760 6" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#2C5364" stop-opacity="0"/>
-<stop offset="50%" stop-color="#66FCF1" stop-opacity="1"/>
-<stop offset="100%" stop-color="#2C5364" stop-opacity="0"/>
-<animate attributeName="x1" values="-30%;100%" dur="3.5s" repeatCount="indefinite"/>
-<animate attributeName="x2" values="0%;130%" dur="3.5s" repeatCount="indefinite"/>
-</linearGradient>
-</defs>
-<rect width="760" height="2" y="2" fill="url(#divGrad)"/>
-</svg>
+## 🎓 Research
 
-## Research & Publications
+### 📈 SentiTrade
+**Sinhala Financial News Sentiment-Based Stock Price Prediction**
 
-**Simple and Practical Logging with the EFK Stack on Kubernetes**
-Published on Medium, April 2025
-- Practical guide to centralized logging using Elasticsearch, Fluentd, Kibana and Kubernetes
-- [Read the article](https://medium.com/@huzaifaameer00/simple-and-practical-logging-with-the-efk-stack-on-kubernetes-on-prem-setup-e1c78da0e706)
+![Role](https://img.shields.io/badge/Role-AI_&_ML_Developer-8B5CF6?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Final_Year_Research-F59E0B?style=flat-square)
+![Market](https://img.shields.io/badge/Market-Colombo_Stock_Exchange-10B981?style=flat-square)
 
-<br />
+My final-year research project, investigating how sentiment in Sinhala financial news can help predict stock-price movements on the **Colombo Stock Exchange (CSE).**
 
 <div align="center">
 
-<svg width="760" height="70" viewBox="0 0 760 70" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient id="footGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#0F2027"/>
-<stop offset="100%" stop-color="#2C5364"/>
-</linearGradient>
-</defs>
-<path fill="url(#footGrad)" opacity="0.9">
-<animate attributeName="d" dur="6s" repeatCount="indefinite"
-values="
-M0,35 C190,10 570,60 760,35 L760,70 L0,70 Z;
-M0,35 C190,60 570,10 760,35 L760,70 L0,70 Z;
-M0,35 C190,10 570,60 760,35 L760,70 L0,70 Z"/>
-</path>
-</svg>
+| 📰 22,000+ | 🤖 5 | 🔤 TF-IDF |
+|:---:|:---:|:---:|
+| Sinhala news articles processed | ML classifiers evaluated | Feature extraction |
 
-**Let's connect and build something great together**
+</div>
+
+> [!TIP]
+> The project processed more than 22,000 articles through a machine learning pipeline that extracts sentiment-related features and evaluates how useful they are for stock-market prediction.
+
+<details>
+<summary><b>🔍 Key contributions and models</b></summary>
+<br/>
+
+- Built a Python-based data processing and machine learning pipeline
+- Preprocessed and analyzed Sinhala financial news
+- Applied NLP techniques and TF-IDF feature extraction
+- Performed feature engineering and model training
+- Evaluated multiple classification algorithms
+- Explored the relationship between news sentiment and stock-price movements
+
+**Models explored:**
+`SVM` `Logistic Regression` `Naive Bayes` `Random Forest` `LinearSVC`
+
+</details>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+<div align="right"><a href="#top">⬆ Back to top</a></div>
+
+---
+
+<a id="experience"></a>
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Codegen International
+![Role](https://img.shields.io/badge/Trainee_Software_&_DevOps_Engineer-6C47FF?style=flat-square)
+
+- Contributed to the **TravelBox** platform
+- Applied software engineering practices, including test-driven development
+- Hands-on with Kubernetes, centralized logging, and CI/CD
+- Worked with production-oriented software systems
+
+</td>
+<td width="50%" valign="top">
+
+### ITX360 (PVT) LTD
+![Role](https://img.shields.io/badge/Managed_Services_Intern-0EA5E9?style=flat-square)
+
+- Practical exposure to IT operations and managed services
+- Built an understanding of enterprise technology environments and support processes
+
+</td>
+</tr>
+</table>
+
+<div align="right"><a href="#top">⬆ Back to top</a></div>
+
+---
+
+<a id="tech-stack"></a>
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td align="right" width="190"><img src="https://img.shields.io/badge/Languages-F59E0B?style=flat-square" alt="Languages"/></td>
+<td><img src="https://skillicons.dev/icons?i=java,js,ts,py&perline=8" alt="Languages"/> <sub>+ SQL</sub></td>
+</tr>
+<tr>
+<td align="right"><img src="https://img.shields.io/badge/Frontend-0EA5E9?style=flat-square" alt="Frontend"/></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind&perline=8" alt="Frontend"/></td>
+</tr>
+<tr>
+<td align="right"><img src="https://img.shields.io/badge/Backend-10B981?style=flat-square" alt="Backend"/></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring&perline=8" alt="Backend"/> <sub>+ JAX-RS, REST APIs</sub></td>
+</tr>
+<tr>
+<td align="right"><img src="https://img.shields.io/badge/Databases-EC4899?style=flat-square" alt="Databases"/></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=8" alt="Databases"/></td>
+</tr>
+<tr>
+<td align="right"><img src="https://img.shields.io/badge/AI_/_ML-8B5CF6?style=flat-square" alt="AI / ML"/></td>
+<td><img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn&perline=8" alt="AI/ML"/> <sub>+ NLTK, NLP, TF-IDF, Sentiment Analysis</sub></td>
+</tr>
+<tr>
+<td align="right"><img src="https://img.shields.io/badge/DevOps_&_Cloud-326CE5?style=flat-square" alt="DevOps & Cloud"/></td>
+<td><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,elasticsearch&perline=8" alt="DevOps"/> <sub>+ CI/CD, Fluentd, Kibana</sub></td>
+</tr>
+<tr>
+<td align="right"><img src="https://img.shields.io/badge/Tools-64748B?style=flat-square" alt="Tools"/></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,gitlab,postman&perline=8" alt="Tools"/></td>
+</tr>
+</table>
+
+<div align="right"><a href="#top">⬆ Back to top</a></div>
+
+---
+
+<a id="projects"></a>
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📄 Document AI & OCR
+![Status](https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square)
+
+Extracts text from digital PDFs, scanned documents, and camera images, focused on logistics-related documents.
+
+`Python` `Streamlit` `OCR` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 Fluentd: English Learning Platform
+![Type](https://img.shields.io/badge/Type-Web_Platform-0EA5E9?style=flat-square)
+
+A web platform designed to support English-language learning.
+
+`React` `Tailwind CSS` `Python` `Node.js` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏥 Healthcare Management System
+![Type](https://img.shields.io/badge/Type-REST_API-10B981?style=flat-square)
+
+A healthcare management application built on RESTful APIs.
+
+`Java` `JAX-RS`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏠 Real Estate Management System
+![Type](https://img.shields.io/badge/Type-Web_App-EC4899?style=flat-square)
+
+A web app for managing real estate information and workflows.
+
+`React` `Bootstrap`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📦 Product Management System
+![Type](https://img.shields.io/badge/Type-Backend-F97316?style=flat-square)
+
+A backend-oriented app for managing product information and operations.
+
+`Spring Boot` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+#### 💬 Sentiment Analysis Model
+![Type](https://img.shields.io/badge/Type-Machine_Learning-8B5CF6?style=flat-square)
+
+Sentiment classification using natural language processing.
+
+`Python` `NLTK` `Pandas`
+
+</td>
+</tr>
+</table>
+
+<div align="right"><a href="#top">⬆ Back to top</a></div>
+
+---
+
+<a id="writing"></a>
+
+## ✍️ Writing
+
+I enjoy documenting technical concepts and sharing practical engineering knowledge.
+
+> [!IMPORTANT]
+> **Featured article:** [Simple and Practical Logging with the EFK Stack on Kubernetes: On-Prem Setup](https://medium.com/@huzaifaameer00/simple-and-practical-logging-with-the-efk-stack-on-kubernetes-on-prem-setup-e1c78da0e706)
+>
+> A practical guide to centralized logging with Elasticsearch, Fluentd, and Kibana in a Kubernetes environment.
+
+<a href="https://medium.com/@huzaifaameer00/simple-and-practical-logging-with-the-efk-stack-on-kubernetes-on-prem-setup-e1c78da0e706"><img src="https://img.shields.io/badge/Read_the_Article-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read the article"/></a>
+<a href="https://medium.com/@huzaifaameer00"><img src="https://img.shields.io/badge/More_on_Medium-→-64748B?style=for-the-badge" alt="More on Medium"/></a>
+
+### 🔭 Areas of Interest
+
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-6C47FF?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-0EA5E9?style=flat-square)
+![AI & ML](https://img.shields.io/badge/AI_&_ML-10B981?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat-square)
+![Financial News Analysis](https://img.shields.io/badge/Financial_News_Analysis-F59E0B?style=flat-square)
+![DevOps](https://img.shields.io/badge/DevOps_&_Cloud--Native-326CE5?style=flat-square)
+![Document AI](https://img.shields.io/badge/Document_AI-EC4899?style=flat-square)
+![SaaS](https://img.shields.io/badge/SaaS_&_Entrepreneurship-F97316?style=flat-square)
+
+<div align="right"><a href="#top">⬆ Back to top</a></div>
+
+---
+
+<a id="contact"></a>
+
+## 🤝 Contact
+
+<div align="center">
+
+<a href="https://huzaifa-ameer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-huzaifa--ameer.vercel.app-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/huzaifa-ameer-28a126253"><img src="https://img.shields.io/badge/LinkedIn-Huzaifa_Ameer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/huzaifameer"><img src="https://img.shields.io/badge/GitHub-huzaifameer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://medium.com/@huzaifaameer00"><img src="https://img.shields.io/badge/Medium-@huzaifaameer00-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://sollydlabs.com/"><img src="https://img.shields.io/badge/Sollyd_Labs-sollydlabs.com-6C47FF?style=for-the-badge" alt="Sollyd Labs"/></a>
+
+<br/><br/>
+
+*Building useful products, exploring intelligent systems, and turning ideas into practical software.*
+
+<br/>
+
+<a href="#top">⬆ Back to top</a>
 
 </div>
